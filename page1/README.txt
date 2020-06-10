@@ -1,6 +1,7 @@
 이 웹페이지는 포트폴리오 작성을 위해 제작되었습니다.
 
-제작에 사용된 프로그램 : Adobe XD(디자인), Brakets(Edit프로그램), Linux(테스트)
+테스트 OS : Linux(테스트), Window10 (Desktop)
+제작에 사용된 프로그램 : Adobe XD(디자인), Brakets(Edit프로그램)
 
 파일 구조는 다음과 같습니다.
 
