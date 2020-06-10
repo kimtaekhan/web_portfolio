@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="27" height="30" viewBox="0 0 27 30">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+      }
+
+      .cls-1, .cls-2 {
+        stroke: #707070;
+      }
+
+      .cls-2, .cls-4 {
+        fill: none;
+      }
+
+      .cls-3 {
+        stroke: none;
+      }
+    </style>
+  </defs>
+  <g id="핸드폰" transform="translate(-697 -1341)">
+    <g id="사각형_51" data-name="사각형 51" class="cls-1" transform="translate(697 1341)">
+      <rect class="cls-3" width="27" height="30"/>
+      <rect class="cls-4" x="0.5" y="0.5" width="26" height="29"/>
+    </g>
+    <g id="사각형_52" data-name="사각형 52" class="cls-1" transform="translate(702 1344)">
+      <rect class="cls-3" width="17" height="19"/>
+      <rect class="cls-4" x="0.5" y="0.5" width="16" height="18"/>
+    </g>
+    <line id="선_2" data-name="선 2" class="cls-2" x2="6.56" transform="translate(707.075 1366.772)"/>
+  </g>
+</svg>

@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="107.03" height="121.95" viewBox="0 0 107.03 121.95">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #264de4;
+      }
+
+      .cls-2 {
+        fill: #2965f1;
+      }
+
+      .cls-3 {
+        fill: #fff;
+      }
+    </style>
+  </defs>
+  <g id="CSS" transform="translate(-366 -483.611)">
+    <path id="패스_6" data-name="패스 6" class="cls-1" d="M-518,483.611h107.03L-421.122,593.14l-43.615,12.421-43.991-12.421Z" transform="translate(884)"/>
+    <path id="패스_7" data-name="패스 7" class="cls-2" d="M-452.444,496.047h53.58l-10.133,88-43.448,10.459Z" transform="translate(859.919)"/>
+    <path id="패스_8" data-name="패스 8" class="cls-3" d="M-493.283,510.786H-436.3l-4.533,60.263-24.282,6.878-22.987-6.878-2.266-18.668h12.3v9.17l12.95,3.6,14.245-3.6V546.157h-39.5V534.367h41.117V522.9h-44.031Z" transform="translate(884)"/>
+  </g>
+</svg>

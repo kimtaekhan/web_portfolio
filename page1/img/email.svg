@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="27" height="18" viewBox="0 0 27 18">
+  <defs>
+    <style>
+      .cls-1, .cls-2 {
+        fill: #fff;
+      }
+
+      .cls-1 {
+        stroke: #707070;
+      }
+
+      .cls-3, .cls-5 {
+        stroke: none;
+      }
+
+      .cls-4 {
+        fill: none;
+      }
+
+      .cls-5 {
+        fill: #707070;
+      }
+    </style>
+  </defs>
+  <g id="이메일" transform="translate(-685 -1226)">
+    <g id="사각형_50" data-name="사각형 50" class="cls-1" transform="translate(685 1226)">
+      <rect class="cls-3" width="27" height="18"/>
+      <rect class="cls-4" x="0.5" y="0.5" width="26" height="17"/>
+    </g>
+    <g id="다각형_1" data-name="다각형 1" class="cls-2" transform="translate(712 1238) rotate(180)">
+      <path class="cls-3" d="M 25.68490791320801 11.5 L 1.315092444419861 11.5 L 13.5 0.6689711213111877 L 25.68490791320801 11.5 Z"/>
+      <path class="cls-5" d="M 13.5 1.337952613830566 L 2.630195617675781 11 L 24.36980438232422 11 L 13.5 1.337952613830566 M 13.5 0 L 27 12 L 0 12 L 13.5 0 Z"/>
+    </g>
+  </g>
+</svg>

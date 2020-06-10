@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="107.681" height="122.294" viewBox="0 0 107.681 122.294">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #ccad28;
+      }
+
+      .cls-2 {
+        fill: #fed331;
+      }
+
+      .cls-3 {
+        fill: #fff;
+      }
+
+      .cls-4 {
+        fill: #e6e6e6;
+      }
+    </style>
+  </defs>
+  <g id="JavaScript" transform="translate(-509.178 -429.907)">
+    <path id="패스_9" data-name="패스 9" class="cls-1" d="M-374.822,429.907h107.68l-10,109.988L-320.981,552.2-365.207,539.9Z" transform="translate(884 0)"/>
+    <path id="패스_10" data-name="패스 10" class="cls-2" d="M-291,444.876h43.841l-7.691,94.6-36.15,10Z" transform="translate(854.014 -5.355)"/>
+    <path id="패스_11" data-name="패스 11" class="cls-3" d="M-284.144,466.959h33.906L-251.6,479.93h-22.528V499l21.681-3.107-2.382,35.423-29.312,7.665V525.517l20.818-4.972.518-10.979-21.336,4.143Z" transform="translate(851.563 -13.254)"/>
+    <path id="패스_12" data-name="패스 12" class="cls-4" d="M-325.884,466.959H-314.7v71.815l-31.694-8.7V516.92l20.508,6.318Z" transform="translate(873.83 -13.254)"/>
+  </g>
+</svg>

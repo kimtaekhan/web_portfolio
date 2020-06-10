@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="947.234" height="950.293" viewBox="0 0 947.234 950.293">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #e53170;
+      }
+
+      .cls-2 {
+        fill: #07cece;
+      }
+
+      .cls-3 {
+        fill: #ff8906;
+      }
+
+      .cls-4 {
+        fill: #fff;
+      }
+    </style>
+  </defs>
+  <g id="geometric_design" data-name="geometric design" transform="translate(-943.575 -95.999)">
+    <path id="사각형_13" data-name="사각형 13" class="cls-1" d="M238,0h0a0,0,0,0,1,0,0V238a0,0,0,0,1,0,0H0a0,0,0,0,1,0,0v0A238,238,0,0,1,238,0Z" transform="translate(1414.575 334) rotate(-90)"/>
+    <rect id="사각형_46" data-name="사각형 46" class="cls-2" width="240.604" height="238.061" transform="translate(1650.204 569.033)"/>
+    <path id="빼기_3" data-name="빼기 3" class="cls-1" d="M31.957,238H0a225.1,225.1,0,0,1,5.173-47.966,228.412,228.412,0,0,1,14.758-44.675,237.762,237.762,0,0,1,23.2-40.428,247.526,247.526,0,0,1,30.5-35.223A253.2,253.2,0,0,1,151.988,18.7,249.153,249.153,0,0,1,197.553,4.835,244.684,244.684,0,0,1,245.856,0v16l-.505,14.28h-5.668C125.142,30.275,31.957,123.46,31.957,238Z" transform="translate(1652.575 808) rotate(-90)"/>
+    <path id="사각형_26" data-name="사각형 26" class="cls-3" d="M236,0h2a0,0,0,0,1,0,0V236a0,0,0,0,1,0,0H0a0,0,0,0,1,0,0v0A236,236,0,0,1,236,0Z" transform="translate(1652.575 334)"/>
+    <ellipse id="타원_4" data-name="타원 4" class="cls-4" cx="42" cy="41" rx="42" ry="41" transform="translate(1726.575 647)"/>
+    <path id="사각형_40" data-name="사각형 40" class="cls-1" d="M238,0h0a0,0,0,0,1,0,0V238a0,0,0,0,1,0,0H0a0,0,0,0,1,0,0v0A238,238,0,0,1,238,0Z" transform="translate(1890.575 808) rotate(90)"/>
+    <path id="사각형_28" data-name="사각형 28" class="cls-1" d="M236.109,0h0a0,0,0,0,1,0,0V238.061a0,0,0,0,1,0,0H0a0,0,0,0,1,0,0v-1.951A236.109,236.109,0,0,1,236.109,0Z" transform="translate(1179.134 334.061)"/>
+    <path id="사각형_39" data-name="사각형 39" class="cls-3" d="M238,0h0a0,0,0,0,1,0,0V238a0,0,0,0,1,0,0H0a0,0,0,0,1,0,0v0A238,238,0,0,1,238,0Z" transform="translate(943.575 808)"/>
+    <path id="빼기_2" data-name="빼기 2" class="cls-3" d="M31.957,238H0a239.758,239.758,0,0,1,4.835-47.966,236.7,236.7,0,0,1,35.811-85.1A238.7,238.7,0,0,1,145.36,18.7,236.8,236.8,0,0,1,190.034,4.835,239.754,239.754,0,0,1,238,0V30.282C124.387,31.181,31.957,124.363,31.957,238Z" transform="translate(1888.575 334) rotate(180)"/>
+    <path id="빼기_4" data-name="빼기 4" class="cls-3" d="M31.957,238H0a239.758,239.758,0,0,1,4.835-47.966,236.7,236.7,0,0,1,35.811-85.1A238.7,238.7,0,0,1,145.36,18.7,236.8,236.8,0,0,1,190.034,4.835,239.754,239.754,0,0,1,238,0V30.282C124.387,31.181,31.957,124.363,31.957,238Z" transform="translate(1178.575 808) rotate(-90)"/>
+    <path id="빼기_5" data-name="빼기 5" class="cls-3" d="M237.288,237.289H0L237.288,0V237.288Z" transform="translate(1651.555 807.265) rotate(180)"/>
+    <path id="빼기_7" data-name="빼기 7" class="cls-2" d="M237.288,237.289H0L237.288,0V237.288Z" transform="translate(1413.128 569.975)"/>
+    <path id="빼기_8" data-name="빼기 8" class="cls-2" d="M237.288,237.289H0L237.288,0V237.288Z" transform="translate(1653.465 333.424) rotate(-90)"/>
+    <path id="빼기_6" data-name="빼기 6" class="cls-2" d="M237.288,237.289H0L237.288,0V237.288Z" transform="translate(1652.057 808.013) rotate(90)"/>
+    <rect id="사각형_43" data-name="사각형 43" class="cls-2" width="236.109" height="238.061" transform="translate(1179.719 808.231)"/>
+    <rect id="사각형_27" data-name="사각형 27" class="cls-2" width="238" height="236" transform="translate(1414.575 334)"/>
+    <ellipse id="타원_3" data-name="타원 3" class="cls-4" cx="42.5" cy="41.5" rx="42.5" ry="41.5" transform="translate(1253.575 886)"/>
+    <ellipse id="타원_2" data-name="타원 2" class="cls-4" cx="41" cy="42" rx="41" ry="42" transform="translate(1491.575 410)"/>
+  </g>
+</svg>

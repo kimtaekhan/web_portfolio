@@ -1,0 +1,302 @@
+/* 메뉴 */
+.control_menu {
+    line-height: 11vh;
+    padding-left: 10%;
+    display: block;
+}
+
+.main_page_button {
+    font-size: 40px;
+    font-weight: bold;
+    text-decoration:none;
+    color: #16161A;
+    
+}
+.menu_button1 {
+    font-size: 30px;
+    font-weight: bold;
+    padding-left: 8%;
+    text-decoration:none;
+    color: #16161A;
+    position: relative;
+    left: 25%;
+	display:none;
+}
+.menu_button2 {
+    font-size: 30px;
+    font-weight: bold;
+    padding-left: 8%;
+    text-decoration:none;
+    color: #707070;
+    position: relative;
+    left: 25%;
+	display:none;
+}
+/* 메뉴 END */
+
+/* Scroll Control */
+.second_menu{
+	display: block;
+	position: fixed;
+	z-index:1;
+}
+.second_menus1{
+	display: block;
+	margin-top: 20%;
+	color: #16161A;
+	font-size: 30px;
+	font-weight: bold;
+}
+.second_menus2{
+	display: block;
+	margin-top: 20%;
+	color: #707070;
+	font-size: 30px;
+	font-weight: bold;
+}
+/* Scroll Control END */
+
+/* content1 인사글 */
+.comment {
+    margin:0;
+    padding:0;
+    padding-left: 12%;
+}
+.comment1 {
+    font-size:40px;
+    font-weight:bold;
+    color: #16161A;
+    display: block;
+    padding-top: 2%;
+    animation-duration: 2s;
+    animation-name: content1_comments1;
+}
+@keyframes content1_comments1 {
+    0% {
+        opacity: 0%;
+        margin-left: -5%;
+    }
+    100% {
+        opacity: 100%;
+        margin-left: 0%;
+    }
+}
+.comment2 {
+    font-size: 25px;
+    font-weight: bold;
+    color: #E53170;
+    animation-duration: 2s;
+    animation-name: content1_comments2;
+}
+@keyframes content1_comments2 {
+    0% {
+        opacity: 0%;
+    }
+    50% {
+        opacity: 0%;
+    }
+    100% {
+        opacity: 100%;
+    }
+}
+/* content1 인사글 END */
+
+/* 사용된 기술 리스트 */
+.tech_list {
+    padding-left: 12%;
+    display:inline-flex;
+    animation-duration: 1.5s;
+    animation-name: tech_animation;
+}
+@keyframes tech_animation {
+    0% {
+        opacity: 0%;
+        margin-top : -5%;
+    }
+    100% {
+        opacity: 100%;
+        margin-top : 0%;
+    }
+}
+.tech {
+    position:relative;
+    right: 6%;
+    width: 500px;
+    height: 450px;
+    background-color: #3DA9FC;
+    display:block;
+    margin-left: 6%;
+    border-radius: 33px;
+    box-shadow: 1px 3px 6px 1px rgba(0, 0, 0, .2);
+    transition-duration: .3s;
+}
+.tech:hover {
+    width: 520px;
+    height: 460px;
+    transform: translate(-1%,-1%);
+}
+.tech_comment {
+    font-size: 50px;
+    font-family: "Trebuchet MS";
+    color: #FFFFFF;
+    position:relative;
+    top:15%;
+    text-align:center;
+}
+.icon_img {
+    position:relative;
+    margin-top:10%;
+    left:37%;
+}
+/* 사용된 기술 리스트 END */
+
+
+/* content1 배경이미지 */
+.backgrounds {
+    position:absolute;
+    top:0;
+    right:0;
+    margin:0;
+    padding:0;
+    z-index: -1;
+    height: 100%;
+}
+/* content1 배경이미지 END */
+
+
+/* content2 main span */
+.comments {
+    content = ' ';
+    width: 62%;
+    //height: 90vh;
+    height: auto;
+    background-color: #ffffff;
+    display: block;
+    position: relative;
+    left: 15%;
+    box-shadow: 1px 3px 6px 1px rgba(0,0,0,.2);
+    padding-bottom: 2%;
+}
+/* content2 second span */
+.comments2 {
+    content = ' ';
+    width: 95%;
+    //height: 80%;
+    height: auto;
+    //background-color:red;
+    display:block;
+    position:relative;
+    top: 5%;
+    left: 2.5%;
+    box-shadow: 1px 3px 6px 1px rgba(0,0,0,.2);
+    padding-bottom:1%;
+}
+/* span END */
+
+/* 메인 제목 */
+.title_comment {
+    position: relative;
+    top: 1%;
+    left: 18%;
+    font-size: 25px;
+    width: 850px;
+    font-weight: bold;
+    text-align: left;
+    border-bottom: 2px solid #707070;
+}
+/* 세컨드 제목 */
+.title_comment2 {
+    text-align:center;
+    font-size: 25px;
+    font-weight: bold;
+}
+
+/* 소개 정보 */
+.introduce_control {
+    position:relative;
+    top: 2%;
+    left: 2.5%;
+}
+/* 사진 */
+.photo {
+    position:absolute;
+    
+}
+/* 나이 주소 등 정보 */
+.introduce_comment {
+    font-size: 22px;
+    font-weight: bold;
+    position:relative;
+    left:12%;
+}
+.phone {
+    height:25px;
+}
+/* 나이 주소 등 정보 END */
+
+/* 기술서 , 소개서 정보 */
+.introduce_comment2 {
+    font-size: 14px;
+    font-weight: bold;
+    line-height: 25px;
+    padding-bottom: 50px;
+}
+.introduce_comment3 {
+    font-size: 18px;
+    font-weight: bold;
+}
+/* 기술서 , 소개서 정보 END */
+
+/* content2 배경 이미지 */
+.bg2_1 {
+    position: absolute;
+    display:block;
+    //top:0;
+    top:100%;
+    right:0;
+    margin:0;
+    padding:0;
+    z-index: -1;
+}
+.bg2_2 {
+    position: absolute;
+    display:block;
+    //top:63%;
+    top:163%;
+    left:-4%;
+    margin:0;
+    padding:0;
+    z-index: -1;
+}
+.bg2_3 {
+    position: absolute;
+    display:block;
+    width: 1000px;
+    height:900px;
+    //top:220%;
+    top:320%;
+    left:0;
+    margin:0;
+    padding:0;
+    z-index: -1;
+}
+.man {
+    position: absolute;
+    //top:188%;
+    top:288%;
+    right:5%;
+}
+.woman {
+    position: absolute;
+    //top:40%;
+    top:140%;
+    left:1%;
+}
+.background2 {
+    position:absolute;
+    //top:195%;
+    top:295%;
+    right:0;
+    z-index: -1;
+}
+/* content2 배경 이미지 END */
